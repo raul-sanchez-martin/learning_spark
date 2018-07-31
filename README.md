@@ -1,2 +1,2 @@
-# learning_spark
-Examples for Learning Spark
+# Examples for Learning Spark
+Practial examples for the Learning Spark book.
