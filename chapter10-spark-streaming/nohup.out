@@ -966,3 +966,4 @@ Sending message: [Mon Mar  8 14:54:56 2004] [info] [client 64.242.88.10] (104)Co
 Sending message: [Tue Mar  9 13:49:05 2004] [info] [client 81.226.63.194] read request line timed out
 Sending message: [Wed Mar 10 11:45:51 2004] [info] [client 24.71.236.129] (104)Connection reset by peer: client stopped connection before send body completed
 Sending message: [Thu Mar 11 02:27:34 2004] [error] [client 200.174.151.3] File does not exist: /usr/local/mailman/archives/public/cipg/2003-november.txtsh: 1: Syntax error: Unterminated quoted string
+sh: 1: Syntax error: Unterminated quoted string
