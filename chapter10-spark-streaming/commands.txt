@@ -1,0 +1,6 @@
+nc -lp 9999 127.0.0.1 --> open a socker, send
+nc 127.0.0.1 9999
+
+
+
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
